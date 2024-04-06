@@ -2,7 +2,7 @@
   "intents": [
     {
       "tag": "greeting",
-      "patterns": [
+      "inputs": [
         "Hi",
         "Hey",
         "How are you",
@@ -207,7 +207,7 @@
     },
     {
       "tag": "goodbye",
-      "patterns": [
+      "inputs": [
         "Bye",
         "See you later",
         "Goodbye",
@@ -531,7 +531,7 @@
     },
     {
       "tag": "thanks",
-      "patterns": [
+      "inputs": [
         "Thanks",
         "Thank you",
         "That's helpful",
@@ -959,7 +959,7 @@
     },
     {
       "tag": "apology",
-      "patterns": [
+      "inputs": [
         "Sorry",
         "My apologies",
         "I apologize",
@@ -1178,7 +1178,7 @@
     },
     {
       "tag": "funny",
-      "patterns": [
+      "inputs": [
         "Tell me a joke!",
         "Tell me something funny!",
         "Do you know a joke?",
@@ -1458,7 +1458,7 @@
     },
     {
       "tag": "name",
-      "patterns": [
+      "inputs": [
         "Who are you exactly?",
         "Could you introduce yourself?",
         "What should I call you?",
@@ -1598,7 +1598,7 @@
     },
     {
       "tag": "age",
-      "patterns": [
+      "inputs": [
         "How many years have you been around?",
         "Can you tell me your age?",
         "What's the number of years you've lived?",
@@ -1738,7 +1738,7 @@
     },
     {
       "tag": "preferences",
-      "patterns": [
+      "inputs": [
         "What kind of music do you like?",
         "What's your favorite music genre?",
         "Do you have any favorite musicians?",
@@ -1755,7 +1755,7 @@
     },
     {
       "tag": "hobbies",
-      "patterns": [
+      "inputs": [
         "What do you like doing for fun?",
         "Tell me about your pastimes.",
         "Do you have any hobbies?",
@@ -1854,7 +1854,7 @@
     },
     {
       "tag": "weather",
-      "patterns": [
+      "inputs": [
         "What's the weather like?",
         "How's the weather today?",
         "Is it going to rain?",
